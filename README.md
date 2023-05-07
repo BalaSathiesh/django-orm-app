@@ -37,8 +37,8 @@ class GitAdmin(admin.ModelAdmin):
 Include your code here
 
 ## OUTPUT
-(https://user-images.githubusercontent.com/121215938/233891019-d32a67de-0852-463c-b404-5fd77ece8fc2.jpg)
-Include the screenshot of your admin page.
+
+![Screenshot 2023-05-07 111902](https://user-images.githubusercontent.com/128462891/236660311-d6a7c13f-800b-41d7-b4d4-4034c1058ad6.png)
 
 
 ## RESULT
