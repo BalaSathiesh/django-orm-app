@@ -12,12 +12,13 @@ Include your ER diagram here
 ## DESIGN STEPS
 
 ### STEP 1:
-
+clone problem from github.
 ### STEP 2:
-
+Create a new app.
 ### STEP 3:
-
-Write your own steps
+Enter the code for admin.py and models.py.
+### step 4:
+Create django app and add student details.
 
 ## PROGRAM
 ```python
